@@ -1,0 +1,22 @@
+# 基础配置
+node_modules/
+.env
+.DS_Store
+
+# 开发环境
+dist/
+coverage/
+# 开发环境相关
+dist/
+coverage/
+
+# 编辑器相关
+.idea/
+.vscode/
+*.suo
+*.user
+
+# 构建相关
+!.eslintrc.js
+!.prettierrc.js
+!.babelrc.js
